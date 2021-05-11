@@ -50,7 +50,7 @@
     "gravatar": "^1.8.0",
     "helmet": "^3.21.3",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mongoose": "^5.9.2",
     "neconfig": "^1.1.0",
     "pdfmake": "^0.1.65",
